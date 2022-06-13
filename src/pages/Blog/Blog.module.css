@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.link__block{
+  list-style-type:none;
+  text-align: center;
+  color: black;
+ 
+}
+.link__second:hover{
+  cursor: pointer;
+}
+.link__second{
+  padding-bottom: 5px;
+}

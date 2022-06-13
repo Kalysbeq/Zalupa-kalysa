@@ -1,16 +1,19 @@
-
+*{
+  margin: 0 ;
+  padding: 0;
+ 
+}
 :root {
   --color-bg: #2C2C32;
   --color-bg-hover: #0f7dc6;
   --color-active: #0f7dc6;
 }
+.footer{
+  margin-top: 500px;
+   text-align: center;
 
-
-
-
-
-
-
+  color: brown;
+}
 .active {
   color: var(--color-active);
   cursor: default;
